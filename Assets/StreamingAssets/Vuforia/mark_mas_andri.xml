@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="REVISI_LAGI_TANGGA" size="20.000000 31.101322" />
+    <ImageTarget name="PORTAL" size="20.000000 25.882353" />
+    <ImageTarget name="Sloof_2" size="20.000000 25.882353" />
+    <ImageTarget name="Atap" size="20.000000 30.703297" />
+    <ImageTarget name="Pondasi" size="20.000000 15.833333" />
+    <ImageTarget name="Rumah" size="20.000000 30.896358" />
+  </Tracking>
+</QCARConfig>
